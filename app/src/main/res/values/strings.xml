@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Whats The Weather</string>
+    <string name="btn_text">What\'s The Weather</string>
+    <string name="textView_text">Enter a City...</string>
+</resources>
